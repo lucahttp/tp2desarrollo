@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Cheddar.cpp
+  Hamburguesa.cpp
+  Hamburguesas.cpp
+C:\Users\luca\Documents\###COSAS\desarrollo\tp2desarrollo\hamburguers\Hamburguesas\Hamburguesas\Hamburguesas.cpp(11,42): warning C4305:  'argumento': truncamiento de 'double' a 'float'
+  Listas.cpp
+  Pan.cpp
+  Paty.cpp
+  Generando código...
+C:\Users\luca\Documents\###COSAS\desarrollo\tp2desarrollo\hamburguers\Hamburguesas\Hamburguesas\Hamburguesas.cpp(15,68): warning C4305:  'argumento': truncamiento de 'double' a 'float'
+  Hamburguesas.vcxproj -> C:\Users\luca\Documents\###COSAS\desarrollo\tp2desarrollo\hamburguers\Hamburguesas\x64\Debug\Hamburguesas.exe

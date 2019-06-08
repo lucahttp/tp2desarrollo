@@ -1,0 +1,4 @@
+﻿  tp2hamburguesas.cpp
+  C:\Users\luca\Documents\###COSAS\desarrollo\tp2desarrollo\tp2hamburguesas\tp2hamburguesas\tp2hamburguesas.cpp(95) : error C4716: 'agregarElementoABebida': debe devolver un valor
+  C:\Users\luca\Documents\###COSAS\desarrollo\tp2desarrollo\tp2hamburguesas\tp2hamburguesas\tp2hamburguesas.cpp(83) : error C4716: 'agregarElementoAPaty': debe devolver un valor
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" salió con el código 2.
