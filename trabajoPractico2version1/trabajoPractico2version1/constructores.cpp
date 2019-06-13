@@ -48,3 +48,23 @@ Pan* agregarPan(float precio, bool integral) {
 	nuevo_pan->integral = integral;
 	return nuevo_pan;
 }
+
+
+
+
+
+//////////////////////////
+//constructor hamburguesa
+
+
+Fantasticarne* agregarHamburguesa(Pan* pancitoSuperior, Pan* pancitoInferior)
+{
+	Fantasticarne* nueva_hamburguesa = new Fantasticarne;
+	nueva_hamburguesa->pancitoSuperior = pancitoSuperior;
+	nueva_hamburguesa->pancitoInferior = pancitoInferior;
+	nueva_hamburguesa->patys = patys;
+	nueva_hamburguesa->cheddars = cheddars;
+	nueva_hamburguesa->pancetas = pancetas;
+	return nueva_hamburguesa;
+}
+
